@@ -1,4 +1,4 @@
-
+# DATE:30/08/25
 # Exp 1 Mode Characteristics of Fiber Optic Cable
 
 ## 🎯 AIM
@@ -60,4 +60,9 @@ Total number of modes = V2 / 2 = 4.912 / 2
 
 ---
 ## Tabulation
+![WhatsApp Image 2025-11-18 at 9 59 48 PM](https://github.com/user-attachments/assets/bb58fced-5a4b-44d6-83ac-2ff0ee1b22af)
+<img width="279" height="316" alt="image" src="https://github.com/user-attachments/assets/f7378053-94f1-41c9-86eb-9e329b1ab674" />
+
 ## Result
+Here the study experiment of detenination of optical mode has .this confirm the existices of disitnet guided mode in the fiber
+
